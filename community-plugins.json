@@ -30007,5 +30007,12 @@
     "author": "plasch",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Search YouTube videos by link and automatically create notes with video metadata.",
     "repo": "plasch/obsidian-youtube-search-plugin"
+  },
+  {
+    "id": "obsidian-image-manager",
+    "name": "Image Manager",
+    "author": "imulan",
+    "description": "A powerful image management plugin for Obsidian. Browse, optimize, upload to image hosting, and organize your images.",
+    "repo": "ytahml/obsidian-image-manager"
   }
 ]
